@@ -7,4 +7,4 @@ This is a small example for Marauder's Map. The SUT was generated with [dungeon_
 
 2. Add the path to were you installed AFLGo to fuzz.sh (there is a big comment at the beginning of the script, can't miss it).
 
-3. Run the fuzz script on the SUT: ´sh fuzz.sh SUT.c´
+3. Run the fuzz script on the SUT: `sh fuzz.sh SUT.c`
